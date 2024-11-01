@@ -16,7 +16,7 @@
 ## Emulator Setup:
 Setup Android Studio Emulator
 
-##How to run?
+## How to run?
 - Open CMD
 - Write command npm i appium --global to install appium
 - appium driver list
